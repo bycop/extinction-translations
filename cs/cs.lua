@@ -1097,6 +1097,7 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si muz
 	["military-base"] = "Military Base",
 	["mining-site"] = "Mining site",
 	["mirror-park"] = "Mirror Park",
+	["observatory"] = "Observatory",
 	["oil-field"] = "Oil field",
 	["oil-station"] = "Oil station",
 	["oneil-land"] = "Oneil land",

@@ -1098,6 +1098,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	["military-base"] = "Base militaire",
 	["mining-site"] = "Site minier",
 	["mirror-park"] = "Mirror Park",
+	["observatory"] = "Observatoire",
 	["oil-field"] = "Champ pétrolier",
 	["oil-station"] = "Station pétrolière",
 	["oneil-land"] = "Oneil land",
